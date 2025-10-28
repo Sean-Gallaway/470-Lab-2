@@ -15,7 +15,7 @@ int main () {
     {"echo", "Hello Sean", NULL},
     {"date", NULL, NULL},
     {"ps", NULL, NULL},
-    {"echo", "Hows your day?", NULL},
+    {"pwd", NULL, NULL},
     {"mkdir", "directory 1", NULL},
     {"whoami", NULL, NULL},
     {"ps", "-ef", NULL},
