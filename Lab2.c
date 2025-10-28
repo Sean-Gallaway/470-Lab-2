@@ -19,7 +19,7 @@ int main () {
     {"mkdir", "directory 1", NULL},
     {"whoami", NULL, NULL},
     {"ps", "-ef", NULL},
-    {"touch", "file 3", NULL},
+    {"touch", "file_3", NULL},
     {"man", "ls", NULL}
   };
   
