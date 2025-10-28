@@ -16,11 +16,11 @@ int main () {
     {"date", NULL, NULL},
     {"ps", NULL, NULL},
     {"echo", "Hows your day?", NULL},
-    {"echo", "Message 2", NULL},
-    {"echo", "Message 3", NULL},
-    {"echo", "Message 4", NULL},
-    {"echo", "Message 5", NULL},
-    {"echo", "Message 6", NULL}
+    {"mkdir", "directory 1", NULL},
+    {"whoami", NULL, NULL},
+    {"ps", "-ef", NULL},
+    {"touch", "file 3", NULL},
+    {"man", "ls", NULL}
   };
   
   printf("Parent: %d\n", getpid());
